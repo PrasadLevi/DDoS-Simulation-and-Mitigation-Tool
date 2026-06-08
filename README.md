@@ -36,13 +36,16 @@ Sample Output
 
 Request received: 1
 Request received: 2
+Request received: 3
 ...
 System overload detected
 Mitigation applied: Rate limiting activated
 
 Simulation finished
 
-Learning Outcomes
+Learning Outcomes 
+
+Understanding of network security concepts and DDoS mitigation strategies
 
 Python programming
 
